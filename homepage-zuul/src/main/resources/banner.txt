@@ -1,0 +1,26 @@
+${AnsiColor.BRIGHT_YELLOW}
+                   8
+                  8DD
+                  DDD
+                 NDDDD
+                 DDDDD
+                DDDDDDD
+                DDDDDDD
+               DDDDDDDDD
+               DDDDDDDDD
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+ DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+   8DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+     DDDDDDDDDDDDDDDDDDDDDDDDDDDD8
+       DDDDDDDDDDDDDDDDDDDDDDDDD
+         NDDDDDDDDDDDDDDDDDDDD
+           DDDDDDDDDDDDDDDDD
+           DDDDDDDDDDDDDDDDD
+          DDDDDDDDDDDDDDDDDDD
+          DDDDDDDDDDDDDDDDDDD
+         DDDDDDDDDD 8DDDDDDDD8
+         DDDDDDDZ     7DDDDDDD
+        DDDDDD           DDDDDD
+        DDDD               DDDD
+       DD8                   DDD
+       8                       D
